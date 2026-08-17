@@ -1,0 +1,6 @@
+{
+  "name": "Japan Free SMS Receive",
+  "description": "日本国内の無料SMS受信用仮番号・認証コード確認サービス",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
